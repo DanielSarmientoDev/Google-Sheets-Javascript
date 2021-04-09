@@ -1,0 +1,12 @@
+{
+  "name": "google-sheets",
+  "version": "1.0.0",
+  "description": "google sheets and javascript",
+  "main": "index.html",
+  "repository": "git@github.com:DanielSarmientoDev/Google-Sheets-Javascript.git",
+  "author": "Daniel Sarmiento Dev",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
